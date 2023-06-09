@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1624550098 source:c:\users\samyra\documents\atividade de iap avaliativa\teorema de pitagoras\main.cpp
+	<iostream>
+	<math.h>
+	<locale.h>
+	<iomanip>
+

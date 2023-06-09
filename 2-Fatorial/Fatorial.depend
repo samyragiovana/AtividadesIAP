@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1624469147 source:c:\users\samyra\documents\c++\fatorial\main.cpp
+	<iostream>
+	<locale.h>
+
+1624568747 source:c:\users\samyra\documents\atividade de iap avaliativa\fatorial\main.cpp
+	<iostream>
+	<locale.h>
+

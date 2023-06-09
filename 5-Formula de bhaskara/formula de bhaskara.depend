@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1624552907 source:c:\users\samyra\documents\atividade de iap avaliativa\formula de bhaskara\main.cpp
+	<iostream>
+	<math.h>
+
+1624570448 source:c:\users\samyra\documents\atividade de iap avaliativa\5-formula de bhaskara\main.cpp
+	<iostream>
+	<math.h>
+	<iomanip>
+
